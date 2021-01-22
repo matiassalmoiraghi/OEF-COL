@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "LocColReportExogenosv2", "LocColReportExogenosv2\LocColReportExogenosv2.rptproj", "{8D6B69FE-1065-4C31-8EF2-A03A6D0FDF1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D6B69FE-1065-4C31-8EF2-A03A6D0FDF1F}.Debug|Default.ActiveCfg = Debug
+		{8D6B69FE-1065-4C31-8EF2-A03A6D0FDF1F}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{8D6B69FE-1065-4C31-8EF2-A03A6D0FDF1F}.DebugLocal|Default.Build.0 = DebugLocal
+		{8D6B69FE-1065-4C31-8EF2-A03A6D0FDF1F}.Release|Default.ActiveCfg = Release
+		{8D6B69FE-1065-4C31-8EF2-A03A6D0FDF1F}.Release|Default.Build.0 = Release
+		{8D6B69FE-1065-4C31-8EF2-A03A6D0FDF1F}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {943B9318-C37E-4C88-89DA-F2C606EB4B03}
+	EndGlobalSection
+EndGlobal
